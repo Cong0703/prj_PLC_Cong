@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Member To Class: ClassName=U_RS485 Member=Component H1 Header 4P 2.54 Duc Cong
+Added Room: Name=SCH_PLC
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT_RELAY
+Added Room: Name=U_ESP_8266
+Added Room: Name=U_Power
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

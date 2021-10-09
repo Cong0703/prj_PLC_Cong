@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=2 NewDesignator=P6
+Added Component: Designator=IC2(DIP8/W0.3)
+Added Pin To Net: NetName=MCU_RX1 Pin=IC2-1
+Added Pin To Net: NetName=DE Pin=IC2-2
+Added Pin To Net: NetName=DE Pin=IC2-3
+Added Pin To Net: NetName=MCU_TX1 Pin=IC2-4
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=NetH1_3 Pin=IC2-6
+Added Pin To Net: NetName=NetH1_2 Pin=IC2-7
+Added Pin To Net: NetName=5V Pin=IC2-8
+Added Member To Class: ClassName=SCH_PLC Member=Component C2 22pF
+Added Member To Class: ClassName=U_RS485 Member=Component IC2 MAX485
+Added Member To Class: ClassName=U_D_OUTPUT_RELAY Member=Component R8 10k
+Added Member To Class: ClassName=SCH_PLC Member=Component U1 STM32F103xx_LQFP64
+Added Room: Name=SCH_PLC
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT_RELAY
+Added Room: Name=U_ESP_8266
+Added Room: Name=U_Power
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485
